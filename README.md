@@ -9,4 +9,11 @@ Author Nitin Sharma
 
 [Stack overflow](https://stackoverflow.com/questions/39378020/how-to-display-table-in-readme-md-file-in-github)
 
-[Picture](https://github.com/nitinsharma99/Nsharma-demo/blob/main/Picture/Screenshot%202025-11-25%20175555.png)
+![Picture](https://github.com/nitinsharma99/Nsharma-demo/blob/main/Picture/Screenshot%202025-11-25%20175555.png)
+
+<img src "https://github.com/nitinsharma99/Nsharma-demo/blob/main/Picture/Screenshot%202025-11-25%20175555.png">
+
+## to do list
+- [ ]  python
+- [ ]  Sql
+- [x] power bi
